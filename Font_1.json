@@ -1,0 +1,3061 @@
+[
+  {
+    "catalog_id": 2609,
+    "name": "Poppins",
+    "webp_thumbnail_img": "Poppins.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2876,
+    "name": "Roboto Mono",
+    "webp_thumbnail_img": "Roboto_Mono.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2897,
+    "name": "Poiret One",
+    "webp_thumbnail_img": "Poiret_One.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2893,
+    "name": "Abel",
+    "webp_thumbnail_img": "Abel.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2885,
+    "name": "Barlow Semi Condensed",
+    "webp_thumbnail_img": "Barlow_Semi_Condensed.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2880,
+    "name": "Inconsolata",
+    "webp_thumbnail_img": "Inconsolata.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2879,
+    "name": "Anonymous Pro",
+    "webp_thumbnail_img": "Anonymous_Pro.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2878,
+    "name": "Times New Roman",
+    "webp_thumbnail_img": "Times_New_Roman.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2877,
+    "name": "Stix Two Text",
+    "webp_thumbnail_img": "Stix_Two_Text.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2874,
+    "name": "Courier Prime",
+    "webp_thumbnail_img": "Courier_Prime.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2865,
+    "name": "Handlee",
+    "webp_thumbnail_img": "Handlee.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2664,
+    "name": "Fledgling",
+    "webp_thumbnail_img": "Fledgling.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2624,
+    "name": "Bakbak One",
+    "webp_thumbnail_img": "Bakbak_One.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2622,
+    "name": "Vesper Libre",
+    "webp_thumbnail_img": "Vesper_Libre.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2618,
+    "name": "Amiko",
+    "webp_thumbnail_img": "Amiko.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2617,
+    "name": "Cambay",
+    "webp_thumbnail_img": "Cambay.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2604,
+    "name": "Harmattan",
+    "webp_thumbnail_img": "Harmattan.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2601,
+    "name": "Vazirmatn",
+    "webp_thumbnail_img": "Vazirmatn.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2600,
+    "name": "Lateef",
+    "webp_thumbnail_img": "Lateef.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2595,
+    "name": "IBM Plex Sans Arabic",
+    "webp_thumbnail_img": "IBM_Plex_Sans_Arabic.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2594,
+    "name": "Changa",
+    "webp_thumbnail_img": "Changa.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2593,
+    "name": "Almarai",
+    "webp_thumbnail_img": "Almarai.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2626,
+    "name": "Anek Devanagari",
+    "webp_thumbnail_img": "Anek_Devanagari.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2621,
+    "name": "Tiro Devanagari Hindi",
+    "webp_thumbnail_img": "Tiro_Devanagari_Hindi.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2620,
+    "name": "Arya",
+    "webp_thumbnail_img": "Arya.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2613,
+    "name": "Baloo 2",
+    "webp_thumbnail_img": "Baloo_2.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2612,
+    "name": "Kalam",
+    "webp_thumbnail_img": "Kalam.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2611,
+    "name": "Yantramanav",
+    "webp_thumbnail_img": "Yantramanav.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2610,
+    "name": "Mukta",
+    "webp_thumbnail_img": "Mukta.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2607,
+    "name": "Baloo Bhaijaan 2",
+    "webp_thumbnail_img": "Baloo_Bhaijaan_2.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2605,
+    "name": "Kufam",
+    "webp_thumbnail_img": "Kufam.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 237,
+    "name": "Montserrat",
+    "webp_thumbnail_img": "Montserrat.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 236,
+    "name": "Open Sans",
+    "webp_thumbnail_img": "Open_Sans.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 235,
+    "name": "Roboto",
+    "webp_thumbnail_img": "Roboto.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 234,
+    "name": "Adobe Garamond",
+    "webp_thumbnail_img": "Adobe_Garamond.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 233,
+    "name": "Lato",
+    "webp_thumbnail_img": "Lato.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2615,
+    "name": "Karma",
+    "webp_thumbnail_img": "Karma.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2598,
+    "name": "Markazi Text",
+    "webp_thumbnail_img": "Markazi_Text.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2592,
+    "name": "Tajawal",
+    "webp_thumbnail_img": "Tajawal.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2900,
+    "name": "Inter",
+    "webp_thumbnail_img": "Inter.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2899,
+    "name": "Noto Sans",
+    "webp_thumbnail_img": "Noto_Sans.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2898,
+    "name": "Rum Raisin",
+    "webp_thumbnail_img": "Rum_Raisin.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2896,
+    "name": "Patrick Hand",
+    "webp_thumbnail_img": "Patrick_Hand.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2895,
+    "name": "Galdeano",
+    "webp_thumbnail_img": "Galdeano.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2894,
+    "name": "Emilys Candy",
+    "webp_thumbnail_img": "Emilys_Candy.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2891,
+    "name": "Cinzel",
+    "webp_thumbnail_img": "Cinzel.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2890,
+    "name": "Arapey",
+    "webp_thumbnail_img": "Arapey.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2889,
+    "name": "Economica",
+    "webp_thumbnail_img": "Economica.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2888,
+    "name": "Charter",
+    "webp_thumbnail_img": "Charter.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2887,
+    "name": "Libre Bodoni",
+    "webp_thumbnail_img": "Libre_Bodoni.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2886,
+    "name": "Libre Baskerville",
+    "webp_thumbnail_img": "Libre_Baskerville.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2884,
+    "name": "Bellefair",
+    "webp_thumbnail_img": "Bellefair.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2883,
+    "name": "Cutive Mono",
+    "webp_thumbnail_img": "Cutive_Mono.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2882,
+    "name": "Special Elite",
+    "webp_thumbnail_img": "Special_Elite.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2881,
+    "name": "Fira Code",
+    "webp_thumbnail_img": "Fira_Code.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2875,
+    "name": "Comic Neue",
+    "webp_thumbnail_img": "Comic_Neue.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2873,
+    "name": "Quintessential",
+    "webp_thumbnail_img": "Quintessential.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2872,
+    "name": "Princess Sofia",
+    "webp_thumbnail_img": "Princess_Sofia.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2871,
+    "name": "Papyrus",
+    "webp_thumbnail_img": "Papyrus.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2870,
+    "name": "La Belle Aurore",
+    "webp_thumbnail_img": "La_Belle_Aurore.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2869,
+    "name": "Kristi",
+    "webp_thumbnail_img": "Kristi.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2868,
+    "name": "Swanky And Moo Moo",
+    "webp_thumbnail_img": "Swanky_And_Moo_Moo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2867,
+    "name": "Just Me Again Down Here",
+    "webp_thumbnail_img": "Just_Me_Again_Down_Here.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2866,
+    "name": "Grand Hotel",
+    "webp_thumbnail_img": "Grand_Hotel.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2864,
+    "name": "Great Sejagad",
+    "webp_thumbnail_img": "Great_Sejagad.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2863,
+    "name": "Give You Glory",
+    "webp_thumbnail_img": "Give_You_Glory.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2862,
+    "name": "Dr Sugiyama",
+    "webp_thumbnail_img": "Dr_Sugiyama.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2861,
+    "name": "Dawning Of A New Day",
+    "webp_thumbnail_img": "Dawning_Of_A_New_Day.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2860,
+    "name": "Rumpi",
+    "webp_thumbnail_img": "Rumpi.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2859,
+    "name": "Damion",
+    "webp_thumbnail_img": "Damion.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2858,
+    "name": "Chandelier",
+    "webp_thumbnail_img": "Chandelier.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2857,
+    "name": "Great Vibes",
+    "webp_thumbnail_img": "Great_Vibes.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2856,
+    "name": "Courgette",
+    "webp_thumbnail_img": "Courgette.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2855,
+    "name": "Clicker Script",
+    "webp_thumbnail_img": "Clicker_Script.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2854,
+    "name": "Farsan",
+    "webp_thumbnail_img": "Farsan.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2853,
+    "name": "Bad Script",
+    "webp_thumbnail_img": "Bad_Script.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2852,
+    "name": "Reenie Beanie",
+    "webp_thumbnail_img": "Reenie_Beanie.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2851,
+    "name": "Croissant One",
+    "webp_thumbnail_img": "Croissant_One.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2850,
+    "name": "Calligraffitti",
+    "webp_thumbnail_img": "Calligraffitti.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2849,
+    "name": "Bilbo",
+    "webp_thumbnail_img": "Bilbo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2848,
+    "name": "Marketing Script",
+    "webp_thumbnail_img": "Marketing_Script.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2847,
+    "name": "Satisfy",
+    "webp_thumbnail_img": "Satisfy.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2846,
+    "name": "Sacramento",
+    "webp_thumbnail_img": "Sacramento.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2845,
+    "name": "Oregano",
+    "webp_thumbnail_img": "Oregano.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2844,
+    "name": "Yellowtail",
+    "webp_thumbnail_img": "Yellowtail.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2843,
+    "name": "Charmonman",
+    "webp_thumbnail_img": "Charmonman.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2842,
+    "name": "Caveat",
+    "webp_thumbnail_img": "Caveat.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2841,
+    "name": "Charm",
+    "webp_thumbnail_img": "Charm.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2840,
+    "name": "Dancing Script",
+    "webp_thumbnail_img": "Dancing_Script.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2662,
+    "name": "Guanine",
+    "webp_thumbnail_img": "Guanine.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2636,
+    "name": "Chrome Yellow NF",
+    "webp_thumbnail_img": "Chrome_Yellow_NF.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3029,
+    "name": "Anek Tamil",
+    "webp_thumbnail_img": "Anek_Tamil.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3028,
+    "name": "Arima",
+    "webp_thumbnail_img": "Arima.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3027,
+    "name": "Tiro Tamil",
+    "webp_thumbnail_img": "Tiro_Tamil.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3026,
+    "name": "Oi",
+    "webp_thumbnail_img": "Oi.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3025,
+    "name": "Noto Serif Tamil",
+    "webp_thumbnail_img": "Noto_Serif_Tamil.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3024,
+    "name": "Noto Sans Tamil",
+    "webp_thumbnail_img": "Noto_Sans_Tamil.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3023,
+    "name": "Mukta Malar",
+    "webp_thumbnail_img": "Mukta_Malar.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3022,
+    "name": "Catamaran",
+    "webp_thumbnail_img": "Catamaran.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3021,
+    "name": "Hind Madurai",
+    "webp_thumbnail_img": "Hind_Madurai.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3020,
+    "name": "Noto Serif Gujarati",
+    "webp_thumbnail_img": "Noto_Serif_Gujarati.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3019,
+    "name": "Anek Gujarati",
+    "webp_thumbnail_img": "Anek_Gujarati.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3018,
+    "name": "Noto Sans Gujarati",
+    "webp_thumbnail_img": "Noto_Sans_Gujarati.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3017,
+    "name": "Shrikhand",
+    "webp_thumbnail_img": "Shrikhand.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3012,
+    "name": "NTR",
+    "webp_thumbnail_img": "NTR.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3011,
+    "name": "Suravaram",
+    "webp_thumbnail_img": "Suravaram.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3010,
+    "name": "Peddana",
+    "webp_thumbnail_img": "Peddana.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3009,
+    "name": "Lakki Reddy",
+    "webp_thumbnail_img": "Lakki_Reddy.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3008,
+    "name": "Dhurjati",
+    "webp_thumbnail_img": "Dhurjati.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3007,
+    "name": "Anek Telugu",
+    "webp_thumbnail_img": "Anek_Telugu.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3006,
+    "name": "Ramaraja",
+    "webp_thumbnail_img": "Ramaraja.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3005,
+    "name": "Akaya Telivigala",
+    "webp_thumbnail_img": "Akaya_Telivigala.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3004,
+    "name": "Timmana",
+    "webp_thumbnail_img": "Timmana.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3003,
+    "name": "Noto Serif Telugu",
+    "webp_thumbnail_img": "Noto_Serif_Telugu.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3002,
+    "name": "Tenali Ramakrishna",
+    "webp_thumbnail_img": "Tenali_Ramakrishna.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3001,
+    "name": "Mallanna",
+    "webp_thumbnail_img": "Mallanna.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 3000,
+    "name": "Tiro Telugu",
+    "webp_thumbnail_img": "Tiro_Telugu.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2998,
+    "name": "Gurajada",
+    "webp_thumbnail_img": "Gurajada.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2997,
+    "name": "Noto Sans Telugu",
+    "webp_thumbnail_img": "Noto_Sans_Telugu.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2996,
+    "name": "Ramabhadra",
+    "webp_thumbnail_img": "Ramabhadra.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2995,
+    "name": "Mandali",
+    "webp_thumbnail_img": "Mandali.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2978,
+    "name": "Sarala",
+    "webp_thumbnail_img": "Sarala.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2967,
+    "name": "Jaldi",
+    "webp_thumbnail_img": "Jaldi.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2957,
+    "name": "Annapurna SIL",
+    "webp_thumbnail_img": "Annapurna_SIL.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2956,
+    "name": "Amita",
+    "webp_thumbnail_img": "Amita.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2955,
+    "name": "Alkatra",
+    "webp_thumbnail_img": "Alkatra.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2954,
+    "name": "Akshar",
+    "webp_thumbnail_img": "Akshar.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2993,
+    "name": "Tiro Kannada",
+    "webp_thumbnail_img": "Tiro_Kannada.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2994,
+    "name": "Noto Serif Kannada",
+    "webp_thumbnail_img": "Noto_Serif_Kannada.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2992,
+    "name": "Anek Kannada",
+    "webp_thumbnail_img": "Anek_Kannada.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2991,
+    "name": "Anek Odia",
+    "webp_thumbnail_img": "Anek_Odia.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2985,
+    "name": "Tiro Devanagari Sanskrit",
+    "webp_thumbnail_img": "Tiro_Devanagari_Sanskrit.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2984,
+    "name": "Tiro Devanagari Marathi",
+    "webp_thumbnail_img": "Tiro_Devanagari_Marathi.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2983,
+    "name": "Tillana",
+    "webp_thumbnail_img": "Tillana.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2982,
+    "name": "Teko",
+    "webp_thumbnail_img": "Teko.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2981,
+    "name": "Sura",
+    "webp_thumbnail_img": "Sura.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2979,
+    "name": "Sarpanch",
+    "webp_thumbnail_img": "Sarpanch.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2977,
+    "name": "Rhodium Libre",
+    "webp_thumbnail_img": "Rhodium_Libre.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2976,
+    "name": "Ranga",
+    "webp_thumbnail_img": "Ranga.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2975,
+    "name": "Rajdhani",
+    "webp_thumbnail_img": "Rajdhani.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2974,
+    "name": "Palanquin Dark",
+    "webp_thumbnail_img": "Palanquin_Dark.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2973,
+    "name": "Palanquin",
+    "webp_thumbnail_img": "Palanquin.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2972,
+    "name": "Modak",
+    "webp_thumbnail_img": "Modak.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2971,
+    "name": "Martel Sans",
+    "webp_thumbnail_img": "Martel_Sans.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2970,
+    "name": "Martel",
+    "webp_thumbnail_img": "Martel.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2969,
+    "name": "Kurale",
+    "webp_thumbnail_img": "Kurale.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2968,
+    "name": "Kadwa",
+    "webp_thumbnail_img": "Kadwa.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2965,
+    "name": "IBM Plex Sans Devanagari",
+    "webp_thumbnail_img": "IBM_Plex_Sans_Devanagari.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2964,
+    "name": "Halant",
+    "webp_thumbnail_img": "Halant.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2963,
+    "name": "Gotu",
+    "webp_thumbnail_img": "Gotu.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2962,
+    "name": "Glegoo",
+    "webp_thumbnail_img": "Glegoo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2961,
+    "name": "Gajraj One",
+    "webp_thumbnail_img": "Gajraj_One.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2960,
+    "name": "Dekko",
+    "webp_thumbnail_img": "Dekko.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2959,
+    "name": "Biryani",
+    "webp_thumbnail_img": "Biryani.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2953,
+    "name": "Tiro Bangla",
+    "webp_thumbnail_img": "Tiro_Bangla.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2952,
+    "name": "Noto Serif Bengali",
+    "webp_thumbnail_img": "Noto_Serif_Bengali.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2951,
+    "name": "Noto Sans Bengali",
+    "webp_thumbnail_img": "Noto_Sans_Bengali.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2950,
+    "name": "Baloo Da 2",
+    "webp_thumbnail_img": "Baloo_Da_2.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2949,
+    "name": "Atma",
+    "webp_thumbnail_img": "Atma.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2948,
+    "name": "Anek Bangla",
+    "webp_thumbnail_img": "Anek_Bangla.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2922,
+    "name": "Noto Sans Gurmukhi",
+    "webp_thumbnail_img": "Noto_Sans_Gurmukhi.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2892,
+    "name": "Noto Sans Kannada",
+    "webp_thumbnail_img": "Noto_Sans_Kannada.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2938,
+    "name": "Nupuram",
+    "webp_thumbnail_img": "Nupuram.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2937,
+    "name": "Anek Malayalam",
+    "webp_thumbnail_img": "Anek_Malayalam.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2936,
+    "name": "Noto Serif Malayalam",
+    "webp_thumbnail_img": "Noto_Serif_Malayalam.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2935,
+    "name": "Noto Sans Malayalam",
+    "webp_thumbnail_img": "Noto_Sans_Malayalam.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 246,
+    "name": "Nurjan",
+    "webp_thumbnail_img": "Nurjan.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 238,
+    "name": "Exo",
+    "webp_thumbnail_img": "Exo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2633,
+    "name": "KaoriGel",
+    "webp_thumbnail_img": "KaoriGel.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2596,
+    "name": "El Messiri",
+    "webp_thumbnail_img": "El_Messiri.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2619,
+    "name": "Yatra One",
+    "webp_thumbnail_img": "Yatra_One.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2651,
+    "name": "Chicle",
+    "webp_thumbnail_img": "Chicle.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2668,
+    "name": "Cheap Fire",
+    "webp_thumbnail_img": "Cheap_Fire.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2667,
+    "name": "Hothead",
+    "webp_thumbnail_img": "Hothead.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2666,
+    "name": "Heavy Heap",
+    "webp_thumbnail_img": "Heavy_Heap.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2665,
+    "name": "Vinque",
+    "webp_thumbnail_img": "Vinque.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2663,
+    "name": "Sloe Gin Rickey",
+    "webp_thumbnail_img": "Sloe_Gin_Rickey.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2661,
+    "name": "Athena VKF",
+    "webp_thumbnail_img": "Athena_VKF.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2660,
+    "name": "Old English Five",
+    "webp_thumbnail_img": "Old_English_Five.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2659,
+    "name": "Olde English",
+    "webp_thumbnail_img": "Olde_English.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2658,
+    "name": "Mastodon",
+    "webp_thumbnail_img": "Mastodon.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2657,
+    "name": "Abhaya Libre",
+    "webp_thumbnail_img": "Abhaya_Libre.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2656,
+    "name": "Stick No Bills",
+    "webp_thumbnail_img": "Stick_No_Bills.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2655,
+    "name": "Tamette Punkdomed",
+    "webp_thumbnail_img": "Tamette_Punkdomed.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2654,
+    "name": "Ryujin Attack",
+    "webp_thumbnail_img": "Ryujin_Attack.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2653,
+    "name": "Shlop",
+    "webp_thumbnail_img": "Shlop.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2652,
+    "name": "Nosifer",
+    "webp_thumbnail_img": "Nosifer.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2650,
+    "name": "DS Chocolade",
+    "webp_thumbnail_img": "DS_Chocolade.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2649,
+    "name": "Gyneric",
+    "webp_thumbnail_img": "Gyneric.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2648,
+    "name": "Maassslicer",
+    "webp_thumbnail_img": "Maassslicer.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2647,
+    "name": "Lady Ice",
+    "webp_thumbnail_img": "Lady_Ice.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2646,
+    "name": "Gunplay",
+    "webp_thumbnail_img": "Gunplay.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2645,
+    "name": "SudegnakNo2",
+    "webp_thumbnail_img": "SudegnakNo2.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2644,
+    "name": "DS Accent",
+    "webp_thumbnail_img": "DS_Accent.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2643,
+    "name": "Conventional Wisdom",
+    "webp_thumbnail_img": "Conventional_Wisdom.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2642,
+    "name": "Dyer Arts and Crafts",
+    "webp_thumbnail_img": "Dyer_Arts_and_Crafts.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2638,
+    "name": "Trickster",
+    "webp_thumbnail_img": "Trickster.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2637,
+    "name": "a Attack Graffiti",
+    "webp_thumbnail_img": "a_Attack_Graffiti.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2635,
+    "name": "Riot Squad NF",
+    "webp_thumbnail_img": "Riot_Squad_NF.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2634,
+    "name": "Uchiyama",
+    "webp_thumbnail_img": "Uchiyama.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2632,
+    "name": "Gasrux",
+    "webp_thumbnail_img": "Gasrux.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2631,
+    "name": "a Annyeong Haseyo",
+    "webp_thumbnail_img": "a_Annyeong_Haseyo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2630,
+    "name": "Shanghai",
+    "webp_thumbnail_img": "Shanghai.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2629,
+    "name": "a Asian Hiro",
+    "webp_thumbnail_img": "a_Asian_Hiro.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2628,
+    "name": "La Oriental",
+    "webp_thumbnail_img": "La_Oriental.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2627,
+    "name": "a Asian Ninja",
+    "webp_thumbnail_img": "a_Asian_Ninja.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2625,
+    "name": "Noto Serif Devanagari",
+    "webp_thumbnail_img": "Noto_Serif_Devanagari.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2623,
+    "name": "Sahitya",
+    "webp_thumbnail_img": "Sahitya.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2616,
+    "name": "Noto Sans Devanagari",
+    "webp_thumbnail_img": "Noto_Sans_Devanagari.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2614,
+    "name": "Pragati Narrow",
+    "webp_thumbnail_img": "Pragati_Narrow.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2608,
+    "name": "Bauchaomaicha",
+    "webp_thumbnail_img": "Bauchaomaicha.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2606,
+    "name": "Blaka",
+    "webp_thumbnail_img": "Blaka.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2603,
+    "name": "Rakkas",
+    "webp_thumbnail_img": "Rakkas.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2602,
+    "name": "Aref Ruqaa",
+    "webp_thumbnail_img": "Aref_Ruqaa.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2599,
+    "name": "Lemonada",
+    "webp_thumbnail_img": "Lemonada.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2597,
+    "name": "Mada",
+    "webp_thumbnail_img": "Mada.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2591,
+    "name": "Cairo",
+    "webp_thumbnail_img": "Cairo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2590,
+    "name": "Scheherazade",
+    "webp_thumbnail_img": "Scheherazade.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2589,
+    "name": "Jomhuria",
+    "webp_thumbnail_img": "Jomhuria.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2588,
+    "name": "Shaumy",
+    "webp_thumbnail_img": "Shaumy.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2587,
+    "name": "a Aidilfitri ",
+    "webp_thumbnail_img": "a_Aidilfitri_.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2586,
+    "name": "a Ahlan Wasahlan",
+    "webp_thumbnail_img": "a_Ahlan_Wasahlan.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2585,
+    "name": "Nixie One",
+    "webp_thumbnail_img": "Nixie_One.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2584,
+    "name": "Korner Deli NF",
+    "webp_thumbnail_img": "Korner_Deli_NF.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2583,
+    "name": "Polentical Neon",
+    "webp_thumbnail_img": "Polentical_Neon.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2582,
+    "name": "Sportrop",
+    "webp_thumbnail_img": "Sportrop.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 2581,
+    "name": "Plasmatica",
+    "webp_thumbnail_img": "Plasmatica.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 546,
+    "name": "Karma Future",
+    "webp_thumbnail_img": "Karma_Future.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1201,
+    "name": "Amiri",
+    "webp_thumbnail_img": "Amiri.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 241,
+    "name": "Amaranth",
+    "webp_thumbnail_img": "Amaranth.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 279,
+    "name": "Chewy",
+    "webp_thumbnail_img": "Chewy.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 491,
+    "name": "Commanders",
+    "webp_thumbnail_img": "Commanders.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1204,
+    "name": "Chilanka",
+    "webp_thumbnail_img": "Chilanka.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1198,
+    "name": "Flottflott",
+    "webp_thumbnail_img": "Flottflott.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1202,
+    "name": "Gayathri",
+    "webp_thumbnail_img": "Gayathri.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1215,
+    "name": "Hind Guntur",
+    "webp_thumbnail_img": "Hind_Guntur.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1211,
+    "name": "Hind",
+    "webp_thumbnail_img": "Hind.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1213,
+    "name": "Khand",
+    "webp_thumbnail_img": "Khand.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1212,
+    "name": "Laila",
+    "webp_thumbnail_img": "Laila.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1200,
+    "name": "Lalezar",
+    "webp_thumbnail_img": "Lalezar.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1165,
+    "name": "Lalytta",
+    "webp_thumbnail_img": "Lalytta.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1195,
+    "name": "Galada",
+    "webp_thumbnail_img": "Galada.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 245,
+    "name": "Playball",
+    "webp_thumbnail_img": "Playball.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1214,
+    "name": "Maitree",
+    "webp_thumbnail_img": "Maitree.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1203,
+    "name": "Manjari",
+    "webp_thumbnail_img": "Manjari.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 520,
+    "name": "Mannie",
+    "webp_thumbnail_img": "Mannie.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 258,
+    "name": "Maven Pro",
+    "webp_thumbnail_img": "Maven_Pro.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1194,
+    "name": "Mina",
+    "webp_thumbnail_img": "Mina.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1209,
+    "name": "Mogra",
+    "webp_thumbnail_img": "Mogra.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1216,
+    "name": "Murecho",
+    "webp_thumbnail_img": "Murecho.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 547,
+    "name": "Interplanetary Crap",
+    "webp_thumbnail_img": "Interplanetary_Crap.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 470,
+    "name": "3M Trislan",
+    "webp_thumbnail_img": "3M_Trislan.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 521,
+    "name": "Thornback",
+    "webp_thumbnail_img": "Thornback.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 486,
+    "name": "Flash",
+    "webp_thumbnail_img": "Flash.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 477,
+    "name": "Lumberjack",
+    "webp_thumbnail_img": "Lumberjack.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 468,
+    "name": "Los Blau Erreur",
+    "webp_thumbnail_img": "Los_Blau_Erreur.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1155,
+    "name": "Shatterboxx",
+    "webp_thumbnail_img": "Shatterboxx.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 469,
+    "name": "Mentha Rapture",
+    "webp_thumbnail_img": "Mentha_Rapture.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 286,
+    "name": "Facon",
+    "webp_thumbnail_img": "Facon.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 247,
+    "name": "Memories",
+    "webp_thumbnail_img": "Memories.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 545,
+    "name": "Bloktype",
+    "webp_thumbnail_img": "Bloktype.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 291,
+    "name": "Butcherman",
+    "webp_thumbnail_img": "Butcherman.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 509,
+    "name": "Olesia",
+    "webp_thumbnail_img": "Olesia.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 511,
+    "name": "Smoothie Life",
+    "webp_thumbnail_img": "Smoothie_Life.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 473,
+    "name": "Mindfully",
+    "webp_thumbnail_img": "Mindfully.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 497,
+    "name": "Beathrice",
+    "webp_thumbnail_img": "Beathrice.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 501,
+    "name": "Christopher",
+    "webp_thumbnail_img": "Christopher.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 863,
+    "name": "NewRocker",
+    "webp_thumbnail_img": "NewRocker.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 476,
+    "name": "The Trickster",
+    "webp_thumbnail_img": "The_Trickster.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 506,
+    "name": "Worcestershire Sauce",
+    "webp_thumbnail_img": "Worcestershire_Sauce.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 297,
+    "name": "Welcome 2019",
+    "webp_thumbnail_img": "Welcome_2019.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 505,
+    "name": "Windsor Great Park",
+    "webp_thumbnail_img": "Windsor_Great_Park.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1159,
+    "name": "Droid",
+    "webp_thumbnail_img": "Droid.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1166,
+    "name": "Kirie-Fu",
+    "webp_thumbnail_img": "Kirie-Fu.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1171,
+    "name": "Steelfish Rounded",
+    "webp_thumbnail_img": "Steelfish_Rounded.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1170,
+    "name": "Cramaten",
+    "webp_thumbnail_img": "Cramaten.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1169,
+    "name": "Balinera",
+    "webp_thumbnail_img": "Balinera.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1160,
+    "name": "Spectrashell",
+    "webp_thumbnail_img": "Spectrashell.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1161,
+    "name": "Echelon",
+    "webp_thumbnail_img": "Echelon.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1173,
+    "name": "Gravtrac",
+    "webp_thumbnail_img": "Gravtrac.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 460,
+    "name": "Londrina",
+    "webp_thumbnail_img": "Londrina.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 283,
+    "name": "Barbaro",
+    "webp_thumbnail_img": "Barbaro.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 244,
+    "name": "Sancreek",
+    "webp_thumbnail_img": "Sancreek.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 462,
+    "name": "Rye",
+    "webp_thumbnail_img": "Rye.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 482,
+    "name": "Ewert",
+    "webp_thumbnail_img": "Ewert.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 512,
+    "name": "Valley",
+    "webp_thumbnail_img": "Valley.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 503,
+    "name": "English Castles",
+    "webp_thumbnail_img": "English_Castles.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 504,
+    "name": "Fish and Chips",
+    "webp_thumbnail_img": "Fish_and_Chips.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 510,
+    "name": "Bewith",
+    "webp_thumbnail_img": "Bewith.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 513,
+    "name": "Carbonara",
+    "webp_thumbnail_img": "Carbonara.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 474,
+    "name": "Oraqle Script",
+    "webp_thumbnail_img": "Oraqle_Script.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 453,
+    "name": "Pacifico",
+    "webp_thumbnail_img": "Pacifico.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 452,
+    "name": "Spirax",
+    "webp_thumbnail_img": "Spirax.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 515,
+    "name": "Minestrone",
+    "webp_thumbnail_img": "Minestrone.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 508,
+    "name": "Merry Christmas",
+    "webp_thumbnail_img": "Merry_Christmas.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 500,
+    "name": "Crispy",
+    "webp_thumbnail_img": "Crispy.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 499,
+    "name": "Confetti",
+    "webp_thumbnail_img": "Confetti.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 498,
+    "name": "AH Punch",
+    "webp_thumbnail_img": "AH_Punch.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 300,
+    "name": "Sail",
+    "webp_thumbnail_img": "Sail.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 475,
+    "name": "Nikoleta",
+    "webp_thumbnail_img": "Nikoleta.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 249,
+    "name": "Octarine",
+    "webp_thumbnail_img": "Octarine.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1205,
+    "name": "Pavanam",
+    "webp_thumbnail_img": "Pavanam.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 494,
+    "name": "Typoliner",
+    "webp_thumbnail_img": "Typoliner.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1210,
+    "name": "Mukta Vaani",
+    "webp_thumbnail_img": "Mukta_Vaani.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1208,
+    "name": "Hind Vadodara",
+    "webp_thumbnail_img": "Hind_Vadodara.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1207,
+    "name": "Meera Inimai",
+    "webp_thumbnail_img": "Meera_Inimai.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1206,
+    "name": "Kavivanar",
+    "webp_thumbnail_img": "Kavivanar.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1199,
+    "name": "Readex Pro",
+    "webp_thumbnail_img": "Readex_Pro.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1197,
+    "name": "Marquee Moon",
+    "webp_thumbnail_img": "Marquee_Moon.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1196,
+    "name": "Clip",
+    "webp_thumbnail_img": "Clip.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1193,
+    "name": "Hind Siliguri",
+    "webp_thumbnail_img": "Hind_Siliguri.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1154,
+    "name": "FatCow",
+    "webp_thumbnail_img": "FatCow.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 454,
+    "name": "Barrio",
+    "webp_thumbnail_img": "Barrio.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 873,
+    "name": "Cheddar Gothic Stencil",
+    "webp_thumbnail_img": "Cheddar_Gothic_Stencil.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 869,
+    "name": "Clickuper",
+    "webp_thumbnail_img": "Clickuper.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 868,
+    "name": "Motion Control",
+    "webp_thumbnail_img": "Motion_Control.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 866,
+    "name": "Super Computer",
+    "webp_thumbnail_img": "Super_Computer.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 539,
+    "name": "Hassle",
+    "webp_thumbnail_img": "Hassle.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 542,
+    "name": "ShoCard Caps",
+    "webp_thumbnail_img": "ShoCard_Caps.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 553,
+    "name": "Clementine Sketch",
+    "webp_thumbnail_img": "Clementine_Sketch.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 550,
+    "name": "Comic Andy",
+    "webp_thumbnail_img": "Comic_Andy.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 548,
+    "name": "Malache Crunch",
+    "webp_thumbnail_img": "Malache_Crunch.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 541,
+    "name": "Buttacup",
+    "webp_thumbnail_img": "Buttacup.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 538,
+    "name": "Crack Man",
+    "webp_thumbnail_img": "Crack_Man.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 537,
+    "name": "Library 3 AM",
+    "webp_thumbnail_img": "Library_3_AM.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 289,
+    "name": "Monoton",
+    "webp_thumbnail_img": "Monoton.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 534,
+    "name": "Fenwick",
+    "webp_thumbnail_img": "Fenwick.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 481,
+    "name": "Faster One",
+    "webp_thumbnail_img": "Faster_One.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 479,
+    "name": "ZnikomitNo24",
+    "webp_thumbnail_img": "ZnikomitNo24.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 471,
+    "name": "Erthqake",
+    "webp_thumbnail_img": "Erthqake.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 466,
+    "name": "Montchauve",
+    "webp_thumbnail_img": "Montchauve.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 464,
+    "name": "Veteran Typewriter",
+    "webp_thumbnail_img": "Veteran_Typewriter.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 463,
+    "name": "Ribeye Marrow",
+    "webp_thumbnail_img": "Ribeye_Marrow.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 461,
+    "name": "Jacques Francois Shadow",
+    "webp_thumbnail_img": "Jacques_Francois_Shadow.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 459,
+    "name": "Monofett",
+    "webp_thumbnail_img": "Monofett.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 458,
+    "name": "Codystar",
+    "webp_thumbnail_img": "Codystar.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 457,
+    "name": "Love Ya Like a Sister",
+    "webp_thumbnail_img": "Love_Ya_Like_a_Sister.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 456,
+    "name": "Gudariak",
+    "webp_thumbnail_img": "Gudariak.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 451,
+    "name": "Bosk Brush",
+    "webp_thumbnail_img": "Bosk_Brush.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 450,
+    "name": "Hansief",
+    "webp_thumbnail_img": "Hansief.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 449,
+    "name": "Mexcellent",
+    "webp_thumbnail_img": "Mexcellent.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 309,
+    "name": "Selfie",
+    "webp_thumbnail_img": "Selfie.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 306,
+    "name": "Burns Town",
+    "webp_thumbnail_img": "Burns_Town.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 305,
+    "name": "Ponsonby NF",
+    "webp_thumbnail_img": "Ponsonby_NF.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1172,
+    "name": "Playback",
+    "webp_thumbnail_img": "Playback.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1158,
+    "name": "Gunmetal",
+    "webp_thumbnail_img": "Gunmetal.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1162,
+    "name": "Brownwood NF",
+    "webp_thumbnail_img": "Brownwood_NF.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1168,
+    "name": "Arnprior",
+    "webp_thumbnail_img": "Arnprior.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1167,
+    "name": "Carmen",
+    "webp_thumbnail_img": "Carmen.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1164,
+    "name": "Volute",
+    "webp_thumbnail_img": "Volute.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1163,
+    "name": "Reality Hyper",
+    "webp_thumbnail_img": "Reality_Hyper.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1157,
+    "name": "Akura Popo",
+    "webp_thumbnail_img": "Akura_Popo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1156,
+    "name": "Johnny Fever",
+    "webp_thumbnail_img": "Johnny_Fever.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 1153,
+    "name": "Ferro Rosso",
+    "webp_thumbnail_img": "Ferro_Rosso.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 879,
+    "name": "Dogica",
+    "webp_thumbnail_img": "Dogica.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 867,
+    "name": "BitPap",
+    "webp_thumbnail_img": "BitPap.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 865,
+    "name": "DPComic",
+    "webp_thumbnail_img": "DPComic.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 864,
+    "name": "Ryuker BRK",
+    "webp_thumbnail_img": "Ryuker_BRK.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 543,
+    "name": "Toyland",
+    "webp_thumbnail_img": "Toyland.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 540,
+    "name": "Ink Tank",
+    "webp_thumbnail_img": "Ink_Tank.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 544,
+    "name": "Tooney Noodle",
+    "webp_thumbnail_img": "Tooney_Noodle.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 552,
+    "name": "Sans Serif Shaded",
+    "webp_thumbnail_img": "Sans_Serif_Shaded.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 551,
+    "name": "Electric Pickle",
+    "webp_thumbnail_img": "Electric_Pickle.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 549,
+    "name": "Alpha Sausage",
+    "webp_thumbnail_img": "Alpha_Sausage.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 496,
+    "name": "Invited",
+    "webp_thumbnail_img": "Invited.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 480,
+    "name": "Steamy",
+    "webp_thumbnail_img": "Steamy.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 493,
+    "name": "Schaeffer",
+    "webp_thumbnail_img": "Schaeffer.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 490,
+    "name": "Stripy",
+    "webp_thumbnail_img": "Stripy.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 488,
+    "name": "Midnight Constellations",
+    "webp_thumbnail_img": "Midnight_Constellations.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 487,
+    "name": "Zsynor",
+    "webp_thumbnail_img": "Zsynor.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 484,
+    "name": "Chaumont",
+    "webp_thumbnail_img": "Chaumont.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 519,
+    "name": "Hasthon Vintage",
+    "webp_thumbnail_img": "Hasthon_Vintage.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 518,
+    "name": "Buld Layered",
+    "webp_thumbnail_img": "Buld_Layered.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 517,
+    "name": "Woonder",
+    "webp_thumbnail_img": "Woonder.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 516,
+    "name": "Cleaf",
+    "webp_thumbnail_img": "Cleaf.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 514,
+    "name": "Caprese",
+    "webp_thumbnail_img": "Caprese.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 507,
+    "name": "Happy New Year",
+    "webp_thumbnail_img": "Happy_New_Year.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 502,
+    "name": "Cornish Pasty",
+    "webp_thumbnail_img": "Cornish_Pasty.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 495,
+    "name": "Kelt Caps Freehand",
+    "webp_thumbnail_img": "Kelt_Caps_Freehand.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 492,
+    "name": "Remained",
+    "webp_thumbnail_img": "Remained.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 489,
+    "name": "Staff Meeting",
+    "webp_thumbnail_img": "Staff_Meeting.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 485,
+    "name": "Lment V02",
+    "webp_thumbnail_img": "Lment_V02.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 483,
+    "name": "VTF Mixo",
+    "webp_thumbnail_img": "VTF_Mixo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 478,
+    "name": "Amsterdam Tangram",
+    "webp_thumbnail_img": "Amsterdam_Tangram.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 472,
+    "name": "Blow Brush",
+    "webp_thumbnail_img": "Blow_Brush.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 308,
+    "name": "Nexa",
+    "webp_thumbnail_img": "Nexa.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 307,
+    "name": "Metropolis",
+    "webp_thumbnail_img": "Metropolis.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 304,
+    "name": "Forgo",
+    "webp_thumbnail_img": "Forgo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 303,
+    "name": "Rancho",
+    "webp_thumbnail_img": "Rancho.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 301,
+    "name": "Bungee",
+    "webp_thumbnail_img": "Bungee.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 299,
+    "name": "Hussar Szturm",
+    "webp_thumbnail_img": "Hussar_Szturm.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 298,
+    "name": "Choko",
+    "webp_thumbnail_img": "Choko.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 296,
+    "name": "Dalmais",
+    "webp_thumbnail_img": "Dalmais.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 295,
+    "name": "Sideways",
+    "webp_thumbnail_img": "Sideways.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 294,
+    "name": "Brush",
+    "webp_thumbnail_img": "Brush.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 293,
+    "name": "Black Ops One",
+    "webp_thumbnail_img": "Black_Ops_One.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 292,
+    "name": "Diplomata",
+    "webp_thumbnail_img": "Diplomata.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 290,
+    "name": "Cabin Sketch",
+    "webp_thumbnail_img": "Cabin_Sketch.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 287,
+    "name": "Driving Around",
+    "webp_thumbnail_img": "Driving_Around.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 285,
+    "name": "Trueno",
+    "webp_thumbnail_img": "Trueno.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 284,
+    "name": "Avicii",
+    "webp_thumbnail_img": "Avicii.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 281,
+    "name": "Delinquent Black",
+    "webp_thumbnail_img": "Delinquent_Black.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 280,
+    "name": "Fog Sans",
+    "webp_thumbnail_img": "Fog_Sans.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 278,
+    "name": "Teen",
+    "webp_thumbnail_img": "Teen.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 277,
+    "name": "Berkshire Swash",
+    "webp_thumbnail_img": "Berkshire_Swash.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 273,
+    "name": "Falling Sky",
+    "webp_thumbnail_img": "Falling_Sky.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 272,
+    "name": "Heebo",
+    "webp_thumbnail_img": "Heebo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 271,
+    "name": "Hussar Nova",
+    "webp_thumbnail_img": "Hussar_Nova.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 270,
+    "name": "Laconic",
+    "webp_thumbnail_img": "Laconic.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 269,
+    "name": "Quicksand",
+    "webp_thumbnail_img": "Quicksand.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 268,
+    "name": "Cuprum",
+    "webp_thumbnail_img": "Cuprum.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 267,
+    "name": "Eczar",
+    "webp_thumbnail_img": "Eczar.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 266,
+    "name": "Gemunu",
+    "webp_thumbnail_img": "Gemunu.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 264,
+    "name": "Manrope",
+    "webp_thumbnail_img": "Manrope.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 261,
+    "name": "Arima Madurai",
+    "webp_thumbnail_img": "Arima_Madurai.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 260,
+    "name": "Cooper Hewitt",
+    "webp_thumbnail_img": "Cooper_Hewitt.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 257,
+    "name": "Linden Hill",
+    "webp_thumbnail_img": "Linden_Hill.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 256,
+    "name": "Baloo",
+    "webp_thumbnail_img": "Baloo.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 255,
+    "name": "Coda",
+    "webp_thumbnail_img": "Coda.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 254,
+    "name": "Coiny",
+    "webp_thumbnail_img": "Coiny.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 862,
+    "name": "Metal Lord",
+    "webp_thumbnail_img": "Metal_Lord.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 554,
+    "name": "Blackout 2",
+    "webp_thumbnail_img": "Blackout_2.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 535,
+    "name": "Vinnie BoomBah",
+    "webp_thumbnail_img": "Vinnie_BoomBah.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 467,
+    "name": "Mom",
+    "webp_thumbnail_img": "Mom.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 465,
+    "name": "Void 2058",
+    "webp_thumbnail_img": "Void_2058.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 455,
+    "name": "Potra",
+    "webp_thumbnail_img": "Potra.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 253,
+    "name": "Comfortaa",
+    "webp_thumbnail_img": "Comfortaa.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 252,
+    "name": "Khula",
+    "webp_thumbnail_img": "Khula.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 251,
+    "name": "Rozha One",
+    "webp_thumbnail_img": "Rozha_One.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 250,
+    "name": "Rasa",
+    "webp_thumbnail_img": "Rasa.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 248,
+    "name": "Digitalt",
+    "webp_thumbnail_img": "Digitalt.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 243,
+    "name": "Vladivostok",
+    "webp_thumbnail_img": "Vladivostok.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 242,
+    "name": "Primer",
+    "webp_thumbnail_img": "Primer.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 240,
+    "name": "Cherry Swash",
+    "webp_thumbnail_img": "Cherry_Swash.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 239,
+    "name": "Audrey",
+    "webp_thumbnail_img": "Audrey.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 232,
+    "name": "PT Sans Narrow",
+    "webp_thumbnail_img": "PT_Sans_Narrow.webp",
+    "is_free": 1,
+    "is_featured": 0
+  },
+  {
+    "catalog_id": 231,
+    "name": "Bitstream Vera Sans",
+    "webp_thumbnail_img": "Bitstream_Vera_Sans.webp",
+    "is_free": 1,
+    "is_featured": 0
+  }
+]
