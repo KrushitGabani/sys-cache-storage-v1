@@ -243,7 +243,8 @@
                     }
                 ],
                 "original_img": "Category_10/original/1.png",
-                "thumbnail_img": "Category_10/thumbnail/1.webp"
+                "thumbnail_img": "Category_10/thumbnail/1.webp",
+                "mask_img": "Category_10/mask/1.png"
             },
             {
                 "id": 9,
@@ -301,7 +302,8 @@
                     }
                 ],
                 "original_img": "Category_10/original/3.png",
-                "thumbnail_img": "Category_10/thumbnail/3.webp"
+                "thumbnail_img": "Category_10/thumbnail/3.webp",
+                "mask_img": "Category_10/mask/3.png"
             },
             {
                 "id": 11,
@@ -578,7 +580,8 @@
                     }
                 ],
                 "original_img": "Category_13/original/3.png",
-                "thumbnail_img": "Category_13/thumbnail/3.webp"
+                "thumbnail_img": "Category_13/thumbnail/3.webp",
+                "mask_img": "Category_13/mask/3.png"
             }
         ]
     },
@@ -1154,7 +1157,8 @@
                     }
                 ],
                 "original_img": "Category_15/original/8.png",
-                "thumbnail_img": "Category_15/thumbnail/8.webp"
+                "thumbnail_img": "Category_15/thumbnail/8.webp",
+                "mask_img": "Category_15/mask/8.png"
             }
         ]
     },
@@ -1336,7 +1340,8 @@
                     }
                 ],
                 "original_img": "Category_7/original/6.png",
-                "thumbnail_img": "Category_7/thumbnail/6.webp"
+                "thumbnail_img": "Category_7/thumbnail/6.webp",
+                "mask_img": "Category_7/mask/6.png"
             },
             {
                 "id": 34,
@@ -2916,7 +2921,8 @@
                     }
                 ],
                 "original_img": "Film/original/7.png",
-                "thumbnail_img": "Film/thumbnail/7.webp"
+                "thumbnail_img": "Film/thumbnail/7.webp",
+                "mask_img": "Film/mask/7.png"
             },
             {
                 "id": 78,
@@ -3692,7 +3698,8 @@
                     }
                 ],
                 "original_img": "Film/original/31.png",
-                "thumbnail_img": "Film/thumbnail/31.webp"
+                "thumbnail_img": "Film/thumbnail/31.webp",
+                "mask_img": "Film/mask/31.png"
             },
             {
                 "id": 102,
@@ -3750,7 +3757,8 @@
                     }
                 ],
                 "original_img": "Film/original/33.png",
-                "thumbnail_img": "Film/thumbnail/33.webp"
+                "thumbnail_img": "Film/thumbnail/33.webp",
+                "mask_img": "Film/mask/33.png"
             },
             {
                 "id": 104,
@@ -6514,7 +6522,8 @@
                     }
                 ],
                 "original_img": "Paper/original/4.png",
-                "thumbnail_img": "Paper/thumbnail/4.webp"
+                "thumbnail_img": "Paper/thumbnail/4.webp",
+                "mask_img": "Paper/mask/4.png"
             },
             {
                 "id": 192,
@@ -6543,7 +6552,8 @@
                     }
                 ],
                 "original_img": "Paper/original/5.png",
-                "thumbnail_img": "Paper/thumbnail/5.webp"
+                "thumbnail_img": "Paper/thumbnail/5.webp",
+                "mask_img": "Paper/mask/5.png"
             },
             {
                 "id": 193,
@@ -6572,7 +6582,8 @@
                     }
                 ],
                 "original_img": "Paper/original/6.png",
-                "thumbnail_img": "Paper/thumbnail/6.webp"
+                "thumbnail_img": "Paper/thumbnail/6.webp",
+                "mask_img": "Paper/mask/6.png"
             },
             {
                 "id": 194,
@@ -6601,7 +6612,8 @@
                     }
                 ],
                 "original_img": "Paper/original/7.png",
-                "thumbnail_img": "Paper/thumbnail/7.webp"
+                "thumbnail_img": "Paper/thumbnail/7.webp",
+                "mask_img": "Paper/mask/7.png"
             },
             {
                 "id": 195,
@@ -6630,7 +6642,8 @@
                     }
                 ],
                 "original_img": "Paper/original/8.png",
-                "thumbnail_img": "Paper/thumbnail/8.webp"
+                "thumbnail_img": "Paper/thumbnail/8.webp",
+                "mask_img": "Paper/mask/8.png"
             },
             {
                 "id": 196,
@@ -6746,7 +6759,8 @@
                     }
                 ],
                 "original_img": "Paper/original/12.png",
-                "thumbnail_img": "Paper/thumbnail/12.webp"
+                "thumbnail_img": "Paper/thumbnail/12.webp",
+                "mask_img": "Paper/mask/12.png"
             },
             {
                 "id": 200,
@@ -6775,7 +6789,8 @@
                     }
                 ],
                 "original_img": "Paper/original/13.png",
-                "thumbnail_img": "Paper/thumbnail/13.webp"
+                "thumbnail_img": "Paper/thumbnail/13.webp",
+                "mask_img": "Paper/mask/13.png"
             },
             {
                 "id": 201,
@@ -6804,7 +6819,8 @@
                     }
                 ],
                 "original_img": "Paper/original/14.png",
-                "thumbnail_img": "Paper/thumbnail/14.webp"
+                "thumbnail_img": "Paper/thumbnail/14.webp",
+                "mask_img": "Paper/mask/14.png"
             },
             {
                 "id": 202,
@@ -6862,7 +6878,8 @@
                     }
                 ],
                 "original_img": "Paper/original/16.png",
-                "thumbnail_img": "Paper/thumbnail/16.webp"
+                "thumbnail_img": "Paper/thumbnail/16.webp",
+                "mask_img": "Paper/mask/16.png"
             },
             {
                 "id": 204,
@@ -7218,7 +7235,8 @@
                     }
                 ],
                 "original_img": "Paper/original/28.png",
-                "thumbnail_img": "Paper/thumbnail/28.webp"
+                "thumbnail_img": "Paper/thumbnail/28.webp",
+                "mask_img": "Paper/mask/28.png"
             },
             {
                 "id": 216,
@@ -7247,7 +7265,8 @@
                     }
                 ],
                 "original_img": "Paper/original/29.png",
-                "thumbnail_img": "Paper/thumbnail/29.webp"
+                "thumbnail_img": "Paper/thumbnail/29.webp",
+                "mask_img": "Paper/mask/29.png"
             },
             {
                 "id": 217,
@@ -7479,7 +7498,8 @@
                     }
                 ],
                 "original_img": "Paper/original/37.png",
-                "thumbnail_img": "Paper/thumbnail/37.webp"
+                "thumbnail_img": "Paper/thumbnail/37.webp",
+                "mask_img": "Paper/mask/37.png"
             },
             {
                 "id": 225,
@@ -7566,7 +7586,8 @@
                     }
                 ],
                 "original_img": "Paper/original/40.png",
-                "thumbnail_img": "Paper/thumbnail/40.webp"
+                "thumbnail_img": "Paper/thumbnail/40.webp",
+                "mask_img": "Paper/mask/40.png"
             },
             {
                 "id": 228,
@@ -7595,7 +7616,8 @@
                     }
                 ],
                 "original_img": "Paper/original/41.png",
-                "thumbnail_img": "Paper/thumbnail/41.webp"
+                "thumbnail_img": "Paper/thumbnail/41.webp",
+                "mask_img": "Paper/mask/41.png"
             },
             {
                 "id": 229,
@@ -7740,7 +7762,8 @@
                     }
                 ],
                 "original_img": "Paper/original/46.png",
-                "thumbnail_img": "Paper/thumbnail/46.webp"
+                "thumbnail_img": "Paper/thumbnail/46.webp",
+                "mask_img": "Paper/mask/46.png"
             },
             {
                 "id": 234,
@@ -7769,7 +7792,8 @@
                     }
                 ],
                 "original_img": "Paper/original/47.png",
-                "thumbnail_img": "Paper/thumbnail/47.webp"
+                "thumbnail_img": "Paper/thumbnail/47.webp",
+                "mask_img": "Paper/mask/47.png"
             },
             {
                 "id": 235,
@@ -7798,7 +7822,8 @@
                     }
                 ],
                 "original_img": "Paper/original/48.png",
-                "thumbnail_img": "Paper/thumbnail/48.webp"
+                "thumbnail_img": "Paper/thumbnail/48.webp",
+                "mask_img": "Paper/mask/48.png"
             },
             {
                 "id": 236,
@@ -7885,7 +7910,8 @@
                     }
                 ],
                 "original_img": "Paper/original/51.png",
-                "thumbnail_img": "Paper/thumbnail/51.webp"
+                "thumbnail_img": "Paper/thumbnail/51.webp",
+                "mask_img": "Paper/mask/51.png"
             },
             {
                 "id": 239,
@@ -7914,7 +7940,8 @@
                     }
                 ],
                 "original_img": "Paper/original/52.png",
-                "thumbnail_img": "Paper/thumbnail/52.webp"
+                "thumbnail_img": "Paper/thumbnail/52.webp",
+                "mask_img": "Paper/mask/52.png"
             },
             {
                 "id": 240,
@@ -7943,7 +7970,8 @@
                     }
                 ],
                 "original_img": "Paper/original/53.png",
-                "thumbnail_img": "Paper/thumbnail/53.webp"
+                "thumbnail_img": "Paper/thumbnail/53.webp",
+                "mask_img": "Paper/mask/53.png"
             },
             {
                 "id": 241,
@@ -7972,7 +8000,8 @@
                     }
                 ],
                 "original_img": "Paper/original/54.png",
-                "thumbnail_img": "Paper/thumbnail/54.webp"
+                "thumbnail_img": "Paper/thumbnail/54.webp",
+                "mask_img": "Paper/mask/54.png"
             }
         ]
     },
