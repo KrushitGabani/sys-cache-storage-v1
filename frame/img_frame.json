@@ -1311,7 +1311,8 @@
                     }
                 ],
                 "original_img": "Category_7/original/5.png",
-                "thumbnail_img": "Category_7/thumbnail/5.webp"
+                "thumbnail_img": "Category_7/thumbnail/5.webp",
+                "mask_img": "Category_7/mask/5.png"
             },
             {
                 "id": 33,
@@ -8775,7 +8776,8 @@
                     }
                 ],
                 "original_img": "Recap 2025/original/22.png",
-                "thumbnail_img": "Recap 2025/thumbnail/22.webp"
+                "thumbnail_img": "Recap 2025/thumbnail/22.webp",
+                "mask_img": "Recap 2025/mask/22.png"
             },
             {
                 "id": 264,
